@@ -1,4 +1,4 @@
-项目在 https://github.com/tanh2-cz/ai_debate 的基础上进行模式修改
+项目和 https://github.com/tanh2-cz/ai_debate 合作，由其修改而来
 
 #  多角色AI辩论平台
 
