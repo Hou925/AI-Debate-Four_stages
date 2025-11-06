@@ -1,5 +1,4 @@
-项目和 https://github.com/tanh2-cz/ai_debate 合作，由其修改而来
-
+项目和 https://github.com/tanh2-cz/ai_debate 合作，共同完成
 #  多角色AI辩论平台
 
 一个基于Streamlit的多角色AI辩论系统，支持3-6个不同专业角色就特定话题进行智能辩论。集成DeepSeek大语言模型和Kimi联网搜索功能，为每个角色提供实时的学术资料支持。
